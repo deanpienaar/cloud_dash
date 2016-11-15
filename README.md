@@ -1,24 +1,9 @@
-# README
+# Cloud Dash
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby 2.3.0/Rails 5.0.0
 
-Things you may want to cover:
+* RSpec Testing
 
-* Ruby version
+* Devise User Model
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ActiveRecord ORM with SQLite3 db on test/dev and PostgreSQL on production
